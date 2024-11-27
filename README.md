@@ -1,0 +1,2 @@
+# DATA-STRUCTURES-ASSIGNTMENT-2025
+ # Genetic Algorithm Simulation  This project simulates genetic algorithm operations such as crossover and mutation using linked lists in C++. Optimized with tail pointers for efficient handling of large datasets, ensuring O(1) insertion time and robust memory management.  #GeneticAlgorithms #C++ #LinkedLists #DataStructures #Optimization #Algorithms #Performance #Simulation #DynamicMemory
